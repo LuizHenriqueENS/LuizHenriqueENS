@@ -2,7 +2,11 @@
 
 Estudando atualmente Java para me tornar um desenvolvedor backend decente.
 
-<div class="bar">
+<div class="bar" style="background-color: #ccc;
+        border: var(--cor-primaria) solid 1px;
+        width: 85vw;
+        height: 25px;
+        text-align: end;">
     <div class="percentage" >
         <span style="color: #000; margin-left: 10px; font-weight: bolder;">40%</span>
     </div>
@@ -27,11 +31,7 @@ Estudando atualmente Java para me tornar um desenvolvedor backend decente.
         border: 1px solid var(--cor-primaria);
     }
     .bar{
-        background-color: #ccc;
-        border: var(--cor-primaria) solid 1px;
-        width: 85vw;
-        height: 25px;
-        text-align: end
+        
     }
     .percentage{
         background-color: var(--cor-primaria);
