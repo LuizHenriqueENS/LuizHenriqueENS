@@ -1,5 +1,5 @@
-<div style="display:flex; flex-direction: column; align-items: center; text-align: center">
-<h1 style="border-bottom: 1px black solid; width: 100%; margin-bottom: 40px">Luiz Henrique 💻</h1>
+<div>
+<h1 style="border-bottom: 1px black solid;">Luiz Henrique 💻</h1>
 
 Estudando atualmente **Java** para me tornar um desenvolvedor backend decente.
 
