@@ -1,10 +1,11 @@
 # Olá! 👋
 
-Sou alguém movido pela curiosidade e pela vontade de entender como as coisas funcionam.
+Sou alguém movido pela curiosidade e pela vontade de entender como as coisas funcionam. 
+~Tenho mais projetos enterrados do que há de estrelas no céu~ 🤨
 
-Minha jornada começou na educação, como professor de História, mas a programação acabou se tornando uma das minhas grandes paixões. Gosto de aprender coisas novas, experimentar tecnologias e, principalmente, transformar ideias em projetos.
+A computação e a educação são duas coisas que venho alimentando desde criança e hoje acabei misturando as duas, numa agradável ironia do destino
 
-Não me considero alguém que sabe tudo — muito pelo contrário. Estou sempre aprendendo, quebrando a cabeça com algum problema e descobrindo novas possibilidades através do código.
+Não me considero alguém que sabe tudo, na verdade adoraria saber de tudo. Estou sempre criando projetos novos e desistindo deles, mas, inevitavelmente, aprendendo muito com eles. Muitos desses projetos nunca viram ou verão o github (tadinhos).
 
 ### 🛠️ Minha caixa de ferramentas
 
