@@ -1,13 +1,28 @@
-<div>
-<h1 style="border-bottom: 1px black solid;">Luiz Henrique 💻</h1>
+# Olá! Eu sou desenvolvedor em formação 👋
 
-Estudando atualmente **Java** para me tornar um desenvolvedor backend decente.
+Sou professor de História e formador na área de Programação no CIEBP. Tenho interesse em desenvolvimento de software, especialmente desenvolvimento de jogos, aplicações e soluções tecnológicas.
 
-### Linguagens
+Minha trajetória na educação despertou meu interesse pela tecnologia e pela criação de projetos que envolvam programação, criatividade e resolução de problemas.
 
-<div>
-    <a href="#" target="blank"><img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Logo C#" height="auto" width="95" style="border: 1px solid black"/></a>
-    <a href="#" target="blank"><img align="center" src="https://images.seeklogo.com/logo-png/15/1/java-logo-png_seeklogo-158094.png" alt="Logo Java" height="auto" width="95" style="border: 1px solid black"/></a>
-</div>
+Atualmente, dedico meus estudos ao desenvolvimento com C#, Python e JavaScript, buscando aprimorar minhas habilidades por meio de projetos práticos e aprendizado contínuo.
 
-</div>
+### Tecnologias e ferramentas
+
+- **Linguagens:** C#, Python, JavaScript e Dart.
+- **Desenvolvimento:** .NET, Unity, Flutter e Node.js.
+- **Web:** HTML e CSS.
+- **Ferramentas:** Git, GitHub e Visual Studio Code.
+
+### Interesses
+
+- Desenvolvimento de software e aplicações.
+- Programação orientada a objetos.
+- Desenvolvimento de jogos com Unity.
+- Desenvolvimento Web e Mobile.
+- Arquitetura de software e boas práticas de programação.
+
+### Formação e experiência
+
+- Professor de História na rede pública de ensino.
+- PROATEC – Formador na área de Programação no CIEBP.
+- Estudos independentes em desenvolvimento de software e tecnologias.
