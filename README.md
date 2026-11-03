@@ -1,28 +1,29 @@
-# Olá! Eu sou desenvolvedor em formação 👋
+# Olá! 👋
 
-Sou professor de História e formador na área de Programação no CIEBP. Tenho interesse em desenvolvimento de software, especialmente desenvolvimento de jogos, aplicações e soluções tecnológicas.
+Sou alguém movido pela curiosidade e pela vontade de entender como as coisas funcionam.
 
-Minha trajetória na educação despertou meu interesse pela tecnologia e pela criação de projetos que envolvam programação, criatividade e resolução de problemas.
+Minha jornada começou na educação, como professor de História, mas a programação acabou se tornando uma das minhas grandes paixões. Gosto de aprender coisas novas, experimentar tecnologias e, principalmente, transformar ideias em projetos.
 
-Atualmente, dedico meus estudos ao desenvolvimento com C#, Python e JavaScript, buscando aprimorar minhas habilidades por meio de projetos práticos e aprendizado contínuo.
+Não me considero alguém que sabe tudo — muito pelo contrário. Estou sempre aprendendo, quebrando a cabeça com algum problema e descobrindo novas possibilidades através do código.
 
-### Tecnologias e ferramentas
+### 🛠️ Minha caixa de ferramentas
 
-- **Linguagens:** C#, Python, JavaScript e Dart.
-- **Desenvolvimento:** .NET, Unity, Flutter e Node.js.
-- **Web:** HTML e CSS.
-- **Ferramentas:** Git, GitHub e Visual Studio Code.
+- C# | Python | JavaScript | Dart
+- Unity | Flutter | Node.js
+- HTML | CSS
+- Git | GitHub
 
-### Interesses
+Claro, aqui fica o destaque para o **C-Sharp**, minha linguagem favorita.
 
-- Desenvolvimento de software e aplicações.
-- Programação orientada a objetos.
-- Desenvolvimento de jogos com Unity.
-- Desenvolvimento Web e Mobile.
-- Arquitetura de software e boas práticas de programação.
+### 🚀 O que me interessa
 
-### Formação e experiência
+- Criar jogos e explorar o universo do desenvolvimento com Unity.
+- Construir aplicações e experimentar novas tecnologias.
+- Entender arquitetura de software e escrever código melhor.
+- Aprender, testar, errar e tentar novamente.
 
-- Professor de História na rede pública de ensino.
-- PROATEC – Formador na área de Programação no CIEBP.
-- Estudos independentes em desenvolvimento de software e tecnologias.
+### 🌱 Sempre aprendendo
+
+Este perfil é um registro da minha jornada: projetos, experimentos, ideias e, principalmente, tudo aquilo que ainda quero aprender.
+
+**Afinal, sempre existe algo novo para construir.**
